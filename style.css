@@ -1,0 +1,62 @@
+body {
+    font-family: Arial;
+    background-color: #0f0f0f;
+    color: #e5e5e5;
+    margin: 0;
+}
+
+header {
+    background-color: #000;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    padding: 20px;
+    max-width: 700px;
+    margin: auto;
+}
+
+.card {
+    background-color: #1a1a1a;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.me {
+    width: 130px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.hobby {
+    margin-top: 15px;
+}
+
+.hobby img {
+    width: 120px;
+    border-radius: 8px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+button {
+    padding: 10px;
+    background-color: #222;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #444;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #000;
+    margin-top: 20px;
+}
